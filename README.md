@@ -9,6 +9,10 @@ I built this dashboard in Microsoft Excel to explore coffee shop sales and pract
 - What are the busiest hours of the day?
 - How do transaction counts compare across product categories?
 
+## Dashboard Preview
+
+![Coffee Shop Sales Dashboard](dashboard.png)
+
 ## What's included
 
 The **Coffee Shop Sales.xlsx** workbook contains two sheets:
