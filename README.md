@@ -40,5 +40,3 @@ The workbook contains both the dataset and the dashboard, so no separate data do
 ## About this project
 
 This is a portfolio project demonstrating my Excel analysis and dashboard skills. The charts describe sales activity; they do not measure profitability because the listed data does not include operating costs.
-
-The original dataset provider is not documented here yet. Source attribution should be added once confirmed.
