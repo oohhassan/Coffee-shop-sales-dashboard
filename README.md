@@ -11,7 +11,7 @@ I built this dashboard in Microsoft Excel to explore coffee shop sales and pract
 
 ## Dashboard Preview
 
-![Coffee Shop Sales Dashboard](dashboard.png)
+![Coffee Shop Sales Dashboard](Dashboard.png)
 
 ## What's included
 
